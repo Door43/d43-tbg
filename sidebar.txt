@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tbg:home|Door43 (tbg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tbg|d43-tbg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tbg/archive/master.zip|d43-tbg.zip]]
+
+**Recent Changes**
+{{changes>ns = tbg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tbg|Ethnologue data]]
+
